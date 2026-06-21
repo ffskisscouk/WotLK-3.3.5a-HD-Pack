@@ -19,10 +19,15 @@ Full UI replacements are user prefrence so none is included. No addons are inclu
 Data MPQ Files
 
 Included:
+
 PATCH-S.MPQ - Better Sunlight Effects “Sun Light Alpha” by Nicola
+
 PATCH-W.MPQ - WOD Lava/Slime
+
 PATCH-X.MPQ - Cataclysm Trees By Leeviathan
 
 Not included but you might want:
+
 PATCH-T.MPQ - HD Environment Textures “TileSet 0.95” By Finsternis (recommended)  (https://stygianthebest.github.io/projects/server-stygiancoreclient/)
+
 HD charecter models (I don't use, it is around 2GB and makes WotLK look too much like retail)
