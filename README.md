@@ -1,4 +1,4 @@
-**WotLK HD Pack** — a curated collection of enhancements and modifications for World of Warcraft: Wrath of the Lich King private servers.
+**WotLK 3.3.5a HD Pack** — a curated collection of enhancements and modifications for World of Warcraft: Wrath of the Lich King private servers.
 
 ## Key Components:
 
