@@ -15,3 +15,14 @@ Large Address Aware: As WOTLK is old it can't see higher memory configurations, 
 For more information: https://www.techpowerup.com/forums/threads/large-address-aware.112556/
 
 Full UI replacements are user prefrence so none is included. No addons are included. Download the zip, extract and move the files directly in the folder were wow.exe is.  Open Large Address Aware.exe click ... and select wow.exe and patch it.  This will allow wow to see more than 4gb of ram and helps with crashes. 
+
+Data MPQ Files
+
+Included:
+PATCH-S.MPQ - Better Sunlight Effects “Sun Light Alpha” by Nicola
+PATCH-W.MPQ - WOD Lava/Slime
+PATCH-X.MPQ - Cataclysm Trees By Leeviathan
+
+Not included but you might want:
+PATCH-T.MPQ - HD Environment Textures “TileSet 0.95” By Finsternis (recommended)  (https://stygianthebest.github.io/projects/server-stygiancoreclient/)
+HD charecter models (I don't use, it is around 2GB and makes WotLK look too much like retail)
