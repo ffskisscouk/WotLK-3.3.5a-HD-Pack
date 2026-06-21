@@ -18,6 +18,6 @@
 - **PATCH-T.MPQ** — HD environment textures (recommended, optional)
 
 ## Installation:
-Extract the zip file and place files in the WoW installation directory (where wow.exe is located). Run Large Address Aware to apply the memory patch.
+Extract the rar file part1.rar and then place files in the WoW installation directory (where wow.exe is located). Run Large Address Aware to apply the memory patch.
 
 **Note:** No UI replacements or addons are included; the pack focuses purely on graphics and environmental enhancements.
